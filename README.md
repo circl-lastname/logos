@@ -11,4 +11,4 @@ naeproject.gvdesign - The project file of the NAE logo.<br>
 png.png - My logo.<br>
 pngalpha.png - My logo with an alpha layer.<br>
 pngroblox.png - A diffrent shade of black in my logo used for my ROBLOX account.<br>
-project.gvdesign - The project file of my logo.<br>
+project.gvdesign - The project file of my logo.
