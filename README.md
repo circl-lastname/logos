@@ -2,13 +2,13 @@
 A collection of my logos I use for easy access.
 
 # File refrence
-README.md - This.
-banner.png - Just a black box.
-banner2.png - Just a black rectangle.
-naepng.png - NAE logo.
-naepngsquare.png - Square NAE logo.
-naeproject.gvdesign - The project file of the NAE logo.
-png.png - My logo.
-pngalpha.png - My logo with an alpha layer.
-pngroblox.png - A diffrent shade of black in my logo used for my ROBLOX account.
-project.gvdesign - The project file of my logo.
+README.md - This.<br>
+banner.png - Just a black box.<br>
+banner2.png - Just a black rectangle.<br>
+naepng.png - NAE logo.<br>
+naepngsquare.png - Square NAE logo.<br>
+naeproject.gvdesign - The project file of the NAE logo.<br>
+png.png - My logo.<br>
+pngalpha.png - My logo with an alpha layer.<br>
+pngroblox.png - A diffrent shade of black in my logo used for my ROBLOX account.<br>
+project.gvdesign - The project file of my logo.<br>
