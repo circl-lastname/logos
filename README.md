@@ -3,7 +3,7 @@ A collection of my logos I use for easy access.
 
 # File refrence
 README.md - This.<br>
-banner.png - Just a black box.<br>
+banner.png - Just a black square.<br>
 banner2.png - Just a black rectangle.<br>
 png.png - My logo.<br>
 pngalpha.png - My logo with an alpha layer.<br>
