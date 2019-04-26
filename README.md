@@ -1,5 +1,5 @@
-# Me on the internet.
-A collection of my logos I use for easy access.
+# Branding
+A collection of my logos I use.
 
 # File refrence
 README.md - This.<br>
